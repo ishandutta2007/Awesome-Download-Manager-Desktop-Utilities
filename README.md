@@ -1,6 +1,6 @@
 # Awesome-Download-Manager-Desktop-Utilities
 
-# Top Download Manager & Desktop Utilities Ecosystem
+## Top Download Manager & Desktop Utilities Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Multi-Protocol Downloading, BitTorrent Clients & Self-Hosted Transfer Engines*  
