@@ -15,17 +15,23 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Commercial Platforms](#saas-commercial-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## Sector Overview & Market Dynamics
 
-The download manager space is predominantly open-source or one-time-purchase software. Subscription-based SaaS offerings are rare because the core problem—downloading files via HTTP/FTP/BitTorrent—does not naturally support recurring per-seat billing. The notable commercial option is a one-time or annual license:
+The global download manager and file transfer utilities sector represents a mature niche micro-market estimated at approximately **$250M–$400M** annually (nested within the broader $4.5B SaaS management and software utility ecosystem). The market is **highly fragmented**, characterized by low barriers to entry around standard networking protocols (HTTP/FTP/BitTorrent), strong competition from community-driven open-source alternatives, and independent vendors rather than a consolidated "winner-take-all" cloud monopoly.
 
-- **[Internet Download Manager (IDM)](https://internet-download-manager.com/)**  
-  **The commercial benchmark for download acceleration on Windows.** **1-year license: ~¥68–85**; **Lifetime license: ~¥158–180** (one-time payment, includes 3 years of free updates) . IDM segments files for faster downloads and integrates with browsers. **No macOS or Linux version**—Windows-only. Best for Windows users willing to pay for a polished, mature download accelerator.
+## SaaS/Commercial Platforms
+
+| Company / Product | Company Size (Est. Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Folx PRO (Electronic Team)](https://mac.eltima.com/download-manager.html)** | **~$10M–$50M** annual revenue (Electronic Team, Inc. / Eltima) | **$19.95** (one-time single license) or via Setapp ($9.99/mo) | **Free forever plan**: Basic 2-thread splitting, browser integration, auto-resume; limits download scheduling, multi-threading (up to 10 threads), and torrent search to PRO |
+| **[Internet Download Manager (Tonec)](https://www.internetdownloadmanager.com/)** | **~$15.1M** annual revenue (est. bootstrapped privately held) | **$11.95/yr** (1-year license, 1 PC) or **$24.95** (lifetime license, 1 PC) | **30-day fully functional free trial**: Unlimited features and acceleration for 30 days; all access blocked upon expiration without purchase |
+| **[Seedr (Seedr.cc)](https://www.seedr.cc/)** | **~$2M–$5M** annual revenue (est. bootstrapped indie SaaS) | **$3.95/mo** (Lite tier, 10 GB storage, proxy acceleration) | **Free forever plan**: 2 GB cloud storage limit, 1 active download slot, 480p SD media streaming cap, standard seeding ratio limit (1:1 or 12 hours) |
 
 ## Open-Source GitHub Projects
 
